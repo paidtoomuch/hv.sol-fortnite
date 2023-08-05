@@ -6,6 +6,8 @@ i got ratted through a vcxproj malware, it was **hopesar, oracl, & leproxy** tha
 
 this is their discord tags:
 
-**jesusclara** - hopesar
-**croissantinoa** - hopesar (he uses this account to rat people)
-**ioctl.** - oracl
+**jesusclara** - hopesar  
+**ioctl.** - oracl  
+
+them selling the fucking sources i spent weeks developing
+![alt text](https://i.imgur.com/lRvYNMB.png)
