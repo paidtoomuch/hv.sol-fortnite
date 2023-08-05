@@ -12,6 +12,7 @@ this is their discord tags:
 
 **jesusclara** - hopesar  
 **ioctl.** - oracl  
+**.leproxy** - leproxy
 
 them selling the fucking sources i spent weeks developing
 ![alt text](https://i.imgur.com/lRvYNMB.png)
