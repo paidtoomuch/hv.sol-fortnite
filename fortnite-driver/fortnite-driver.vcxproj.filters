@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="entrypoint.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="impl">
+      <UniqueIdentifier>{39e0965b-fedc-4e0a-9b25-97dcc9d27474}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="impl\scanner.h" />
+    <ClInclude Include="impl\imports.h" />
+    <ClInclude Include="impl\crt.h" />
+    <ClInclude Include="kernel\structures.hpp" />
+    <ClInclude Include="impl\modules.h" />
+    <ClInclude Include="impl\communication\structs.h" />
+    <ClInclude Include="requests\get_module_base.cpp" />
+    <ClInclude Include="requests\read_physical_memory.cpp" />
+    <ClInclude Include="requests\physical\directory_table_base.cpp" />
+    <ClInclude Include="requests\write_physical_memory.cpp" />
+    <ClInclude Include="kernel\xor.hpp" />
+    <ClInclude Include="kernel\defs.h" />
+    <ClInclude Include="requests\physical\pml4_walk_entry.cpp" />
+  </ItemGroup>
+</Project>
